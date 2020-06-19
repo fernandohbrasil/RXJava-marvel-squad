@@ -2,10 +2,10 @@
 
 ## Description
 
-Application that explores a little of the [Marvel API](https://developer.marvel.com/). With two screens:
+Application that explores a little of the [Marvel API](https://developer.marvel.com/) with two screens:
 
-* One with the details of the character.
-* And another with two lists, one from the API and the other from characters that are saved in my squad
+* Details of the character.
+* Lists of characters from the API and my current squad.
 
 ## Libs and Techniques
 
