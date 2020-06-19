@@ -26,5 +26,5 @@ Application that explores a little of the Marvel API. With two screens:
 
 ## Screenshots
 
-![Screenshot1](screenshots/Screenshot1.gif)
-![Screenshot2](screenshots/Screenshot2.gif)
+![Screenshot1](screenshots/screenshot1.gif)
+![Screenshot2](screenshots/screenshot2.gif)
