@@ -22,7 +22,7 @@ Application that explores a little of the Marvel API. With two screens:
 
 ## App architecture
 
-![App architecture](screenshots/Apparchitecture.gif)
+![App architecture](screenshots/apparchitecture.png)
 
 ## Screenshots
 
