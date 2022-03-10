@@ -7,10 +7,9 @@ import androidx.navigation.findNavController
 import androidx.paging.PagedListAdapter
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.RecyclerView
-
 import com.fernandohbrasil.marvelsquad.databinding.ItemCharacterVerticalBinding
-import com.fernandohbrasil.marvelsquad.extensions.loadCircleCrop
 import com.fernandohbrasil.marvelsquad.datasource.network.model.Character
+import com.fernandohbrasil.marvelsquad.extensions.loadCircleCrop
 import com.fernandohbrasil.marvelsquad.ui.fragment.RootFragmentDirections
 
 class CharacterVerticalAdapter :
